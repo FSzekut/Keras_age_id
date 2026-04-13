@@ -1,0 +1,5 @@
+[project]
+name = "Keras_ageid"
+version = "0.1.0"
+description = "Ambiente limpo para notebook de identificacao de idade com TensorFlow/Keras"
+requires-python = ">=3.12"
